@@ -2,4 +2,4 @@ Ceci est un message
 
 Ceci est un 2eme message
 
-Ceci est un 4eme message Il n'existeraque dans la branche main
+Ceci est un 4eme message Il n'existera que dans la branche main
