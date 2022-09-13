@@ -2,6 +2,7 @@ Ceci est un message
 
 Ceci est un 2eme message
 
+<<<<<<< HEAD
 
 Ceci est un 3eme message, Il n'existera que dans la branche feature/nex-text.
 
@@ -11,3 +12,12 @@ Ceci est un 5eme message, oui
 
 
 Ceci est une modification dans la branche feature/new-text.
+=======
+Ceci est un 4eme message Il n'existera que dans la branche main
+
+Test
+
+Ceci est un 5eme message, il sera different dans chaque branche
+
+Ceci est une modification dans la branche main
+>>>>>>> main
