@@ -7,3 +7,5 @@ Ceci est un 4eme message Il n'existera que dans la branche main
 Test
 
 Ceci est un 5eme message, il sera different dans chaque branche
+
+Ceci est une modification dans le dossier main
