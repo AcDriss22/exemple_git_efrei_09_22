@@ -8,4 +8,4 @@ Test
 
 Ceci est un 5eme message, il sera different dans chaque branche
 
-Ceci est une modification dans le dossier main
+Ceci est une modification dans la branche main
